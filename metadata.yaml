@@ -1,0 +1,32 @@
+_repo: Le-legs-de-Ca-n--13-Un-Testament---Basile-Hymen---Le-Paradis-sur-le-Dniester_16421
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sacher-Masoch, Leopold, Ritter von
+    aliases:
+    - Sacher-Masosch, Leopold, Ritter von
+    - Von Sacher-Masoch, Leopold, Ritter
+    - Sacher-Masoch, Ritter von (Leopold)
+    birthdate: 1835
+    deathdate: 1895
+    gutenberg_agent_id: '2220'
+    url: http://www.gutenberg.org/2009/agents/2220
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16421'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: "Le legs de Caïn\r\nUn Testament — Basile Hymen — Le Paradis sur le Dniester"
+url: http://www.gutenberg.org/ebooks/16421
