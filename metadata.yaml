@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2220
     wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Sacher-Masoch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16421#Le-legs-de-Ca-n--13-Un-Testament---Basile-Hymen---Le-Paradis-sur-le-Dniester
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-08-03'
 gutenberg_type: Text
